@@ -1,3 +1,5 @@
+ЗАДАНИЕ 1.
+
 1. В проекте используется Module Federation. Я выбрала его, поскольку у нас используется 1 фреймворк, и тк в примере был разобран случай с этим тулом. 
 
 2. Данный проект я разбила на 4 микросервиса по DDD: 
@@ -263,3 +265,6 @@ PS в readme структура отображается плохо, лучше 
         ├── utils  
         │   └── api.js  
         └── webpack.config.js  
+
+ЗАДАНИЕ 2.
+https://drive.google.com/file/d/1UD4P2gCUqBBNmOqvs6VfcGbkgXphsUBM/view?usp=sharing
